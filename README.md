@@ -1,4 +1,6 @@
 #Uber Rides Analysis and Visualization
+![image](https://github.com/user-attachments/assets/a050afd7-f4f8-4072-aa44-b91837e687aa)
+
 
 This project delves into Uber ride patterns to uncover key trends and optimize operations. By leveraging SQL for data transformation and Power BI for visualization, it provides valuable insights into ride demand, speed variations, and peak-hour performance.
 
