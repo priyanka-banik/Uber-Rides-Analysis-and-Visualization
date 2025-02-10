@@ -1,4 +1,4 @@
-#Uber Rides Analysis and Visualization(Using SQL & Power BI)
+#Uber Rides Analysis and Visualization(SQL & Power BI)
 ![image](https://github.com/user-attachments/assets/a050afd7-f4f8-4072-aa44-b91837e687aa)
 
 
