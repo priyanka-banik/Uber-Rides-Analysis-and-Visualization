@@ -1,4 +1,5 @@
 #Uber Rides Analysis and Visualization
+
 This project delves into Uber ride patterns to uncover key trends and optimize operations. By leveraging SQL for data transformation and Power BI for visualization, it provides valuable insights into ride demand, speed variations, and peak-hour performance.
 
 Key Insights:
